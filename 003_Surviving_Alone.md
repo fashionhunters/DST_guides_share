@@ -42,7 +42,7 @@ Once you can comfortably survive on your own and have some familiarity with a br
 |Autumn|- Health, Hunger, Sanity<br> - Hounds|- See notes <br> - farm spiders <br> - start a farm|- Prepare for winter<br> - build up sanity and health solutions (tent?) <br> - make extra telltale hearts, carry one on you <br> - Butterfly/flower farm?|
 |Winter|- Cold <br> - Mactusks <br> - Less naturally spawning food|- Thermal stone, winter hat/beefalo hat <br> - DON'T Rabbit earmuffs <br> - Dodge dogs while chasing mactusk until he reaches bound and tries to go home then fight|- Prepare for spring|
 |Spring|- Rain <br> - Storms <br>|- Umbrella, Raincoat, Eyebrella <br> - Lightning rod|- Prepare for summer <br> &nbsp;&nbsp;&nbsp;- Set up a base in the caves with your essentials|
-|Summer|- Heat and Wildfires <br> - Cave basing <br> &nbsp;&nbsp;&nbsp;- Worm waves, sanity, food|- Wildfires Options: ice staff, water balloons, ice, luxury fan, ice fling-o-matic, base in the caves <br> - We'll help you with cave basing||
+|Summer|- Heat and Wildfires <br> - Cave basing <br> &nbsp;&nbsp;&nbsp;- Cave enemies, sanity, food|- Wildfires Options: ice staff, water balloons, ice, luxury fan, ice fling-o-matic, base in the caves <br> - We'll help you with cave basing||
 |Autumn 2|- max size hound waves (red hounds)|- Tooth trap field||
 <!-- do i add the additional challenges section? -->
 <!-- how to talk about what we'll do for them outside the table? -->
