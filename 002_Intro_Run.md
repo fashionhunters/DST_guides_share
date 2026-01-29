@@ -13,7 +13,7 @@
   - [6. Meet up - First Base](#6-meet-up---first-base)
   - [7. Woof](#7-woof)
   - [8. Prep for small boss](#8-prep-for-small-boss)
-  - [9. Prep for big box (Dragonfly)](#9-prep-for-big-box-dragonfly)
+  - [9. Prep for big boss](#9-prep-for-big-boss)
   - [10. Preparing for Winter](#10-preparing-for-winter)
 - [Last Pointers](#last-pointers)
 
