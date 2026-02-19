@@ -52,3 +52,8 @@ Other characters that don't stray overly far from the "default" experience (but 
   - has a number of machines that you shouldn't deal with yet
   - when >50 hunger, drain hunger to craft faster
   - when <=50 hunger, crafts slower
+
+# Mods
+Subscribe to the mods here, no need to turn any of them on yet
+
+[My Mod List](<https://steamcommunity.com/sharedfiles/filedetails/?id=3601439559>) 

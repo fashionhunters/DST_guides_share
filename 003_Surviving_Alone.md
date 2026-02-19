@@ -66,6 +66,7 @@ Once you can comfortably survive on your own and have some familiarity with a br
 - Use telltale hearts on you
   - Start having/bringing your own if you have a chance
 - Show/review how to hunt spiders and hunt hounds
+- Reminders on preparation and things to do
 - Teach/show piggy town
 - Answer questions
 - <details>
@@ -103,7 +104,7 @@ What do you feel like leads most to your demise?
 # Progression Checklist
 - Survive for 90 days
 - Comfortably survive indefinitely
-  - have backup items and repairing tools
+  - have backup items (healing, booster shots, hearts) and repairing tools
 - Have preparations for reviving
 - Can prep materials to fight Dragonfly
   - marble suit, log suit, 1 football helmet, and hambat for you and one other player
@@ -114,10 +115,11 @@ What do you feel like leads most to your demise?
 - Have a basic understanding of clockworks and how to handle them (with +1 manpower occasionally)
 - Be able to handle:
   - Hounds
+    - set up tooth trap field?
   - Spider farming
   - Nightmare creatures
-  - Bearger
-  - Deerclops
+  - Fall Event
+  - Winter event
   - Mactusks
   - Treeguards
   - Pig butts/farm
@@ -130,8 +132,8 @@ What do you feel like leads most to your demise?
     - Blue staff
     - Life giving amulet
     - Meat effigy
-- Explore caves more
 - Oasis base
+- Explore caves more (if haven't finished yet)
 
 # **Additional Reference**
 
